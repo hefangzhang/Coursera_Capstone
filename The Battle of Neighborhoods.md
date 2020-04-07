@@ -19,7 +19,7 @@ For this problem, we will leverage the Foursquare APIs to explore the data of th
 
 3 Methodology
 
-Segment and cluster methodologies learned in previous modules were applied.
+Segment and cluster methodologies learned in previous modules were applied. The detailed steps are in https://github.com/hefangzhang/Coursera_Capstone/blob/master/The%20Battle%20of%20Neighborhoods.ipynb
 
 4 Results
 
